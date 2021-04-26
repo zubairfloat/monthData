@@ -1,0 +1,13 @@
+.mainDivMap {
+  display: flex;
+  justify-content: center;
+}
+
+.mainDivMap p {
+  margin: 20px;
+}
+
+.mainDiv3Rows {
+  display: flex;
+  justify-content: space-evenly;
+}
